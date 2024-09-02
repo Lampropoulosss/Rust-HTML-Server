@@ -1,0 +1,6 @@
+[package]
+name = "HTML-Server-Rust"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
